@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AntranigTanielian
-- 👀 I’m interested in programming (php)
-- 🌱 I’m currently learning programming (php , python , java)
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in programming (js , php )
+- 🌱 I’m currently learning programming ( react )
+- 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me ...
 
 <!---
